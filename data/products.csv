@@ -1,0 +1,4 @@
+id,name,category,price,stock,minStock
+P001,Riz 1kg,Épicerie,22.5,120,20
+P002,Lait 1L,Frais,10.0,60,10
+P003,Huile 1L,Épicerie,35.0,30,5
